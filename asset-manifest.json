@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toaddtask/static/css/main.80c6c6a8.css",
+    "main.js": "/toaddtask/static/js/main.68c0fac9.js",
+    "index.html": "/toaddtask/index.html",
+    "main.80c6c6a8.css.map": "/toaddtask/static/css/main.80c6c6a8.css.map",
+    "main.68c0fac9.js.map": "/toaddtask/static/js/main.68c0fac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c6c6a8.css",
+    "static/js/main.68c0fac9.js"
+  ]
+}
